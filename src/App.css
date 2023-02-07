@@ -1,0 +1,52 @@
+.Nvsite{
+
+height: 40px;
+border: 1px solid black; 
+justify-content: space-between;
+align-items: center;
+display: flex;
+color: white;
+background-color: black;
+
+}
+
+.Anime{
+    display: flex;
+     flex-wrap: wrap;
+    gap: 10px;
+    height: 2000px;
+    width: 1300px;
+    margin: auto;
+    background-color: gold
+}
+
+img{
+    width: 300px;
+    height: 290px;
+    
+}
+
+.Sitename{
+    color: gold;
+}
+.Signcoler{
+    background-color: gold;
+    
+}
+
+.text{
+    width: 200px;
+    height: 10px;
+}
+.watch{
+    background-color: white
+    
+}
+.e{
+    image-rendering: 1100px;
+    
+}
+
+.a{
+    width: 1;
+}
